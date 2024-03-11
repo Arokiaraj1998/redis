@@ -7,7 +7,7 @@ const app = express();
 const port = 3000;
 
 
-mongoose.connect('mongodb+srv://SmartWork123:SmartWork123@cluster0.aocgo.mongodb.net/redis', {
+mongoose.connect('mongodb+srv://Arokiaraj:White@2002@cluster0.aocgo.mongodb.net/redis', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   socketTimeoutMS: 30000, // Adjust the timeout as needed
